@@ -1,6 +1,6 @@
 #assurence voiture
 
-kw = 0
+kw = 10
 prix_voiture = 0
 kasko = 0
 dieb = 0
