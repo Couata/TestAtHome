@@ -1,7 +1,7 @@
 # Test-at-Home
 Testing stuff at home
 
-## Part 1
+## Markdown
 
 Markdown support:
 
@@ -11,7 +11,7 @@ Markdown support:
 
 
 
-### Sous-titre 1
+## GitHub
 
 GitHub help:
 
